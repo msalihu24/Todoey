@@ -1,3 +1,3 @@
 # Todoey
 
-To-do list App
+IOS To-do list App using Swift
